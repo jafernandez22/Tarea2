@@ -1,0 +1,287 @@
+.principal
+{
+    background-color: red;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+}
+h1
+{
+    padding: 15px;
+    border: 10px;
+    border-style: dashed;
+    border-color: black;
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+}
+.caja1
+{
+    background-color: blue;
+    margin: 5px;
+    width: 600px;
+    height: 900px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    display: inline-block;
+
+}
+
+.caja11
+{
+    background-color: red;
+    margin: 20px;
+    width: 260px;
+    height: 400px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    float: left;
+}
+
+.caja12
+{
+    background-color: red;
+    margin: 20px;
+    width: 260px;
+    height: 400px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    float: left;
+
+    
+}
+
+.caja13
+{
+    background-color: red;
+    margin: 20px;
+    width: 260px;
+    height: 400px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    float: left;
+}
+
+.caja14
+{
+    background-color: red;
+    margin: 20px;
+    width: 260px;
+    height: 400px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    float: left;
+}
+
+
+.caja2
+{
+    background-color: blue;
+    margin: 5px;
+    width: 150px;
+    height: 900px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 1;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+}
+
+.caja21
+{
+    background-color: green;
+    margin: 20px;
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 1;
+}
+
+.caja22
+{
+    background-color: green;
+    margin: 20px;
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 1;
+}
+
+.caja23
+{
+    background-color: green;
+    margin: 20px;
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 1;
+}
+
+.caja24
+{
+    background-color: green;
+    margin: 20px;
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 1;
+}
+
+.caja25
+{
+    background-color: green;
+    margin: 20px;
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 1;
+}
+
+.caja26
+{
+    background-color: green;
+    margin: 20px;
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 1;
+}
+
+.caja27
+{
+    background-color: green;
+    margin: 20px;
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 1;
+}
+
+.caja28
+{
+    background-color: green;
+    margin: 20px;
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 1;
+}
+
+.caja29
+{
+    background-color: green;
+    margin: 20px;
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 1;
+}
+
+.caja3
+{
+    background-color: blue;
+    margin: 5px;
+    width: 600px;
+    height: 900px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    display: inline-block;
+}
+
+.caja31
+{
+    background-color: yellow;
+    margin: 20px;
+    width: 560px;
+    height: 160px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
+.caja32
+{
+    background-color: yellow;
+    margin: 20px;
+    width: 260px;
+    height: 200px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    float: left;
+}
+.caja33
+{
+    background-color: yellow;
+    margin: 20px;
+    width: 260px;
+    height: 200px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    float: left;
+}
+
+.caja34
+{
+    background-color: yellow;
+    margin: 20px;
+    width: 560px;
+    height: 160px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    float: inline-end;
+}
+
+.caja35
+{
+    background-color: yellow;
+    margin: 20px;
+    width: 260px;
+    height: 200px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    float: left;
+}
+.caja36
+{
+    background-color: yellow;
+    margin: 20px;
+    width: 260px;
+    height: 200px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    float: left;
+}
